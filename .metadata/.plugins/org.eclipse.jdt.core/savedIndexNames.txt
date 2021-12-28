@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\acer\Desktop\Bilal Karakan\Java_React_Camp\.metadata\.plugins\org.eclipse.jdt.core
-380197650.index
-1642175237.index
-278804527.index
